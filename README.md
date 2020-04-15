@@ -1,2 +1,2 @@
 # Gama-Academy
-Trabalho desenvolvidos no Projeto Gama Academy
+Trabalhos desenvolvidos no Projeto Gama Academy
